@@ -1,0 +1,10 @@
+
+1 index: skeleton html; folders: styles, images, scripts; get firefox-original.png, establish alt descr & test
+2 add a heading and paragraphs; modify para to use list; add link; pretty up the page a little; rename it to index1 and copy it to new index.html then dump the comments
+3 add stylesheet link to <head>; make p's red; add google font link to <head>
+4 comment out the red and replace with html {} stuff; add text rules for h1, and for p and li
+5 Consider box model, also width (of an element), background-color, color, text-shadow and display properties - resources: https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics, https://developer.mozilla.org/en-US/docs/Learn/CSS.
+5A set page color (html background-color: #00539F); set body properties; add to h1 properties; set img properties;
+6 main.js in scripts (content for Hello World), <script src="scripts/main.js"></script> just b4 </body>; then Read Crash course in https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics
+7 Comment out Hello World stuff; acquire a similar-sized image; create fresh JS content (myImage);
+8 add <button>Change user</button> just before <script>; add myButton and myHeading vars; add setUserName fcn; add if...else block; add myButton.onclick fcn;
