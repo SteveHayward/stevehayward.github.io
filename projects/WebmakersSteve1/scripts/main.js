@@ -18,6 +18,7 @@ var myHeading = document.querySelector('h1');
 function setUserName() {
   var myName = prompt('Please enter your name.');
   localStorage.setItem('name', myName);
+  /* Insert here: if myName is Cholmondeley, run audio <<https://www.youtube.com/watch?v=4NTLkJqpC-A>> */
   myHeading.textContent = 'Mozilla is cool, ' + myName;
 }
 
